@@ -1,0 +1,7 @@
+div{background-image: url(Imagendefondo/Firefly\ Imagen\ con\ personajes\ de\ ficcion\ 47070.jpg);
+background-repeat: no-repeat;
+background-size: cover;}
+div h1, h2{ color: red; font-style: italic; display: flex; justify-content: center;}
+.verse{ color: aqua;}
+img{width: 250px; height: 250px;}
+h3{font-family: Georgia, 'Times New Roman', Times, serif;}
